@@ -98,6 +98,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rb: {fileID: 5500283372532944551}
+  destroyDelay: 4
 --- !u!50 &5500283372532944551
 Rigidbody2D:
   serializedVersion: 4
