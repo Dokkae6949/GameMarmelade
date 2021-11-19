@@ -25,7 +25,7 @@ public class Bullet : MonoBehaviour
         switch(other.gameObject.tag)
         {
             case "structure":
-            Destroy(gameObject);
+                Destroy(gameObject);
             break;
         }
     }
